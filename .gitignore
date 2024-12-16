@@ -1,0 +1,11 @@
+# Ignore log files
+*.log
+
+# Ignore environment variables
+.env
+
+.xml
+
+.properties
+
+
